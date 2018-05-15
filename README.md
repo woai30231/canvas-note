@@ -1,2 +1,8 @@
-# canvas-note
-canvas-note开发笔记！！！
+### 前言
+
+这是记录自己用canvas开发学习的文档，文档以简单、入门的方式介绍canvas是干什么的、api等！
+
+
+### 目录
+
+[01 canvas初识]()
