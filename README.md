@@ -6,3 +6,5 @@
 ### 目录
 
 [01 canvas初识](https://github.com/woai30231/canvas-note/blob/master/article/01.md)
+
+[02 canvas常常见绘制函数](https://github.com/woai30231/canvas-note/blob/master/article/02.md)
